@@ -3,7 +3,8 @@ Bienvenue sur mon site super méga génial !
 
 
 * [Ceci est un lien](https://matias.ma/nsfw/)
-* [C'est génial](/poule/cookie)
+* [Crepes](/nourriture/crepes-whaou)
+* [Cookie](/nourriture/cookie)
 
 **gras**
 *italique*
