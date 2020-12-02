@@ -7,9 +7,9 @@ Par Can.L.Paul et Hach.I.Stid
 I - [Savez-vous compter jusqu'à Bus ?](#i---savez-vous-compter-jusquà-bus-)
 
 II - [Les nombres Verts](#ii---les-nombres-verts)
-1. [Partie Gravitationnelle, partie Pittoresque](#partie-gravitationnelle-partie-pittoresque)
-2. [Définitions](#propriétés)
-3. [Gourdes](#gourdes)
+1. [Partie Gravitationnelle, partie Pittoresque](#1-partie-gravitationnelle-partie-pittoresque)
+2. [Définitions](#2-propriétés)
+3. [Gourdes](#3-gourdes)
 
 ---
 
@@ -86,3 +86,4 @@ Avec :
 - $v$ la verdure du nombre en Grass, où $v$ est de la forme
 $-i\bar{v}$
 - $\bar{v}$ le coefficient pratique de motricité de 七, qui qualifie le potentiel du nombre à se déplacer.
+
