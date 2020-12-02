@@ -1,13 +1,25 @@
 # De la théorie de la Débilité Générale (et restreinte)
 Par Can.L.Paul et Hach.I.Stid 
 (doctorat en débilité générale Bac + 2 py)
+
+## Sommaire
+
+I - [Savez-vous compter jusqu'à Bus ?](#i---savez-vous-compter-jusquà-bus-)
+
+II - [Les nombres Verts](#ii---les-nombres-verts)
+1. [Partie Gravitationnelle, partie Pittoresque](#partie-gravitationnelle-partie-pittoresque)
+2. [Définitions](#propriétés)
+3. [Gourdes](#gourdes)
+
+---
+
 ## I - Savez vous compter jusqu'à Bus ?
 
 ### Définitions
 - **Bus**: Ensemble pragmatique* $\mathbb{B}$
 - **TGV**: Théorème Général de la Vacuité
 
-## I. Les nombres Verts
+## II - Les nombres Verts
 On définit un nombre vert (noté 七)  par :
 $七 = e^{\frac{x}{\alpha}} + y py$
 avec $\alpha$ quelconque, tel que
