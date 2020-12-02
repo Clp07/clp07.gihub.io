@@ -1,2 +1,2 @@
 Les crêpes Whaou c'est cool !
-![Crepe wahou](htpps://clp07.github.io/img/crepe.jpg)
+![Crepe wahou](https://clp07.github.io/img/crepe.jpg)
