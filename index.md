@@ -1,12 +1,9 @@
-# Ceci est mon site
-Bienvenue sur mon site super méga génial !
+# De la théorie de la Débilité Générale (et restreinte)
+Par Can.L.Paul et Hach.I.Stid 
+(doctorat en débilité générale Bac + 2 py)
+## I - Savez vous compter jusqu'à Bus ?
+**Bus**: Ensemble pragmatique 
 
 
-* [Ceci est un lien](https://matias.ma/nsfw/)
-* [Crepes](/nourriture/crepes-whaou)
-* [Cookie](/nourriture/cookie)
-
-**gras**
-*italique*
-***gras italique***
+$\mathbb{B}$
 
