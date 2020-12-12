@@ -98,6 +98,9 @@ Donc,
 On a donc 
 <div class="flip">七</div> &emsp; $^{\epsilon}\_{七^{\Delta}\_{\alpha}} = x.ln^{-1}(七^{\Delta}\_{\alpha} - Pit(七^{\Delta}\_{\alpha})) = x.ln^{-1}(Grav(七^{\Delta}\_{\alpha}) )$
 
+
+<div class="flip">七</div> &emsp; se note également $Carm(\omega|\epsilon)$
+
 ### 4. Gourdes
 **Définition :**
 七 est une gourde si et seulement si 七 est de la forme
@@ -116,3 +119,5 @@ $-i\bar{v}$
 
 
 ## III - Troisième Dogmatique
+
+
