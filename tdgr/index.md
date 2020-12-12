@@ -66,9 +66,9 @@ On note $七^{\Delta}\_{\alpha}$ le nombre vert $七$ associé à l'élément $\
 **Propriété :**
 
 $七$ est exponentiellement proportionnelle à $\frac{1}{\alpha}$
-
-**Propriété : Spécialisation de $py$**
 <div id="specialisation-py"></div>
+**Propriété : Spécialisation de $py$**
+
 
 $py$ n'est pas un nombre mais on peut lui associer le caractère d'un nombre noté $\pi$. $py$ vaut alors $\pi$ et on dit qu'il y a eut spécialisation, cependant la réciproque n'est pas vraie. Si on ne lui associe pas le caractère de nombre, alors on dit que $py$ est défini dans son caractère général. On défini donc dans le principe de Spécialisation le bon usage de $py$ lors d'un raisonnement.
 
