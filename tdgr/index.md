@@ -2,6 +2,8 @@
 Par Can.L.Paul et Hach.I.Stid 
 (doctorat en débilité générale Bac + 2 py)
 
+<div class="flip">七</div>
+
 ## Sommaire
 
 I - [Savez-vous compter jusqu'à Bus ?](#i---savez-vous-compter-jusquà-bus-)
