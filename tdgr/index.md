@@ -77,7 +77,7 @@ On posera donc au début de tout raisonnement faisant intervenir $py$ l'hypothè
 
 
 **Définition : Application verdoyante**
-Soit $七$ un nombre vert et $\mathbb{W}$ un espace vectoriel.
+Soit $七$ un nombre vert et $\mathbb{W}$ un espace vectoriel pour lequel la définition a un sens.
 On définit $七°$ l'application verdoyante associée à $七$.
 On a donc $\forall \omega \in \mathbb{W}$, $七°(\omega) = e^{\frac{x}{\omega}}+ypy$
 
@@ -119,6 +119,8 @@ $e^{\frac{2py \times x}{\alpha}} + 2py \times \sin (z)$
 七 est une gourde si et seulement si 七 est de la forme
 
 $e^{\frac{2py \times x^{0}}{\alpha}} + 2py\sin (vi2)$
+
+Où $vi2 = vi + 2$ 
 
 Avec :
 - $v$ la verdure du nombre en Grass, où $v$ est de la forme
@@ -168,7 +170,7 @@ On définit une patte de $三(f)$ comme position d'équilibre stable de $三(f)$
 **Propriété : Caractérisation d'une patte**
 Soit $ӽ \in \mathbb{B}$, et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$,
 
-$ӽ$ est une patte de $f$si et seulement si $\overrightarrow{E}\_p'(三\_f)(ӽ) = 0$ et $\overrightarrow{E}\_p''(三\_f)(ӽ) > 0$
+$ӽ$ est une patte de $f$si et seulement si $\overrightarrow{E}\_p'(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p''(f\_三)(ӽ) > 0$
 
 
 **Définition : Canard**
@@ -177,4 +179,14 @@ On dit que $f$ est un canard sur $I$  si et seulement si $f$ n'est pas continue 
 
 **Propriété :**
 Soit $I$ un intervalle de $\mathbb{B}^三$ et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ un canard sur $I$.
-Le application verdoyante $三\_f°$ casse trois pattes à un canard si et seulement si $三\_f$ possède moins de trois positions d'équilibre.
+L' application verdoyante $三\_f°$ casse n pattes à un canard si et seulement si $三\_f$ possède n pattes de moins que $f$.
+
+
+**Définition :**
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$.
+$三\_f$ est une brouette si et seulement si $三\_f$ est une gourde vide dont le coefficient de motricité $\bar{v}$ est différent de 0.
+
+
+**Propriété :**
+Soit $I$ un intervalle de $\mathbb{B}^三$
+Une brouette tombe du ciel sur $I$ si et seulement si son énergie potentielle est décroissante sur $I$.
