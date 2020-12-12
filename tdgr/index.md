@@ -82,7 +82,7 @@ Réciproquement, on dit que $\Delta$ est la loga-grandeur associée à $\epsilon
 
 
 **Définition :**
-Soit $七^{\Delta}_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque <div class="flip">七</div>  $^{\epsilon}_{\omega}$ tel que 
+Soit $七^{\Delta}_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque $^{\epsilon}_{\omega}$ tel que 
 
 ### 4. Gourdes
 **Définition :**
