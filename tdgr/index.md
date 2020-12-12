@@ -1,3 +1,4 @@
+
 # De la théorie de la Débilité Générale (et restreinte)
 Par Can.L.Paul et Hach.I.Stid 
 (doctorat en débilité générale Bac + 2 py)
@@ -82,17 +83,20 @@ Réciproquement, on dit que $\Delta$ est la loga-grandeur associée à $\epsilon
 
 
 **Définition :**
-Soit $七^{\Delta}\_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque <div class="flip">七</div> &emsp; $^{\epsilon}\_{\omega}$ tel que 
+Soit $七^{\Delta}\_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque 
+<div class="flip">七</div> &emsp; $^{\epsilon}\_{\omega}$ tel que 
 
 <div class="flip">七</div> &emsp; $^{\epsilon}\_{七^{\Delta}\_{\alpha}}= \alpha$
 
 où $\Delta$ est la grandeur associée à $\alpha$, et $\epsilon$ son expo-grandeur.
 
 
-Donc, <div class="flip">七</div> &emsp; $^{\epsilon}\_{\omega}$ est d'unité de $\Delta$.
+Donc, 
+<div class="flip">七</div> &emsp; $^{\epsilon}\_{\omega}$ est d'unité de $\Delta$.
 
 
-On a donc <div class="flip">七</div> &emsp; $^{\epsilon}\_{七^{\Delta}\_{\alpha}} = x.ln^{-1}(七^{\Delta}\_{\alpha} - Pit(七^{\Delta}\_{\alpha})) = x.ln^{-1}(Grav(七^{\Delta}\_{\alpha}) )$
+On a donc 
+<div class="flip">七</div> &emsp; $^{\epsilon}\_{七^{\Delta}\_{\alpha}} = x.ln^{-1}(七^{\Delta}\_{\alpha} - Pit(七^{\Delta}\_{\alpha})) = x.ln^{-1}(Grav(七^{\Delta}\_{\alpha}) )$
 
 ### 4. Gourdes
 **Définition :**
