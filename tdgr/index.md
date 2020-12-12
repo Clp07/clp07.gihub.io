@@ -143,13 +143,13 @@ $-i\bar{v}$
 
 ## III - Troisième Dogmatique
 
-Toutes les assertions de ce paragraphe seront valables si et seulement si on se place en dogmatique 3.
+Toutes les assertions de ce paragraphe sont valables si et seulement si on se place en dogmatique 3.
 
 **Énoncé :** 
 
 *«En 3<sup>ème</sup> dogmatique, tout nombre vert s'associe à une application. On défini alors $\mathbb{B}^三$ comme l'ensemble des applications de $\mathbb{B}$ dont le nombre vert à un sens.»*
 
-Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ une application, un nombre vert associé à $f$, noté $三(f)$ ou $三_f$ est
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ une application, le nombre vert associé à $f$, noté $三(f)$ ou $三_f$ est
 
 $三(f) = e^{\frac{x}{f(x)}} + f(py)$
 
@@ -193,7 +193,7 @@ On définit une patte de $三(f)$ comme position d'équilibre stable de $三(f)$
 
 Soit $ӽ \in \mathbb{B}$, et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$,
 
-$ӽ$ est une patte de $f$si et seulement si $\overrightarrow{E}\_p'(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p''(f\_三)(ӽ) > 0$
+$ӽ$ est une patte de $f$ si et seulement si $\overrightarrow{E}\_p'(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p''(f\_三)(ӽ) > 0$
 
 
 **Définition : Canard**
