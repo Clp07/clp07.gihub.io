@@ -17,7 +17,7 @@ II - [Les nombres Verts](#ii---les-nombres-verts)
 ## I - Savez vous compter jusqu'à Bus ?
 
 ### Définitions
-- **Bus**: Ensemble pragmatique* $\mathbb{B}$
+- **Bus**: Ensemble pragmatique\* $\mathbb{B}$
 - **TGV**: Théorème Général des Gourdes Vides
 
 ## II - Les nombres Verts
@@ -28,7 +28,7 @@ $x = 0 \Rightarrow \frac{x}{\alpha} = \Omega$ (ou $\Omega$ est l'univers).
 
 *Remarque : 七 (du japonais "sept") se prononce ici "Hi".*
 
-**Propriété : *Additivité de $py$***
+**Propriété : Additivité de $py$**
 
 $\forall z \in \mathbb{C}, zpy = z + py = z + \pi \neq z \times py$
 
@@ -49,12 +49,12 @@ $\alpha$ est caractérisé par 7 grandeurs :
 - Un temps
 
 Ainsi, on a
- $\tilde{\alpha} = [Masse]^{a}.[VSD]^{b}.[Energie]^{c}.[Chaleur]^{d}.[Luminosité]^{e}.[Couleur]^{f}.[Temps]^{g}$
- ou $\tilde{\alpha}$ est la grandeur associée à $\alpha$.
+ $\tilde{\alpha} = [Masse]^{a}.[VSD]^{b}.[Energie]^{c}.[Chaleur]^{d}.[Luminosité]^{e}.[Couleur]^{f}.[Temps]^{g}$ 
+ou $\tilde{\alpha}$ est la grandeur associée à $\alpha$.
  
 **Notation :**
 
-On note $七^{\Delta}_{\alpha}$ le nombre vert $七$ associé à l'élément $\alpha$ pour la grandeur $\Delta$.
+On note $七^{\Delta}\_{\alpha}$ le nombre vert $七$ associé à l'élément $\alpha$ pour la grandeur $\Delta$.
 
 
 **Propriété :**
@@ -82,7 +82,7 @@ Réciproquement, on dit que $\Delta$ est la loga-grandeur associée à $\epsilon
 
 
 **Définition :**
-Soit $七^{\Delta}_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque $^{\epsilon}_{\omega}$ tel que 
+Soit $七^{\Delta}\_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque
 
 ### 4. Gourdes
 **Définition :**
