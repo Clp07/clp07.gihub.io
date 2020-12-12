@@ -2,8 +2,6 @@
 Par Can.L.Paul et Hach.I.Stid 
 (doctorat en débilité générale Bac + 2 py)
 
-<div class="flip">七</div>
-
 ## Sommaire
 
 I - [Savez-vous compter jusqu'à Bus ?](#i---savez-vous-compter-jusquà-bus-)
@@ -11,7 +9,7 @@ I - [Savez-vous compter jusqu'à Bus ?](#i---savez-vous-compter-jusquà-bus-)
 II - [Les nombres Verts](#ii---les-nombres-verts)
 1. [Partie Gravitationnelle, partie Pittoresque](#1-partie-gravitationnelle-partie-pittoresque)
 2. [Définitions](#2-propriétés)
-3. [Gourdes](#3-gourdes)
+4. [Gourdes](#4-gourdes)
 
 ---
 
@@ -19,7 +17,7 @@ II - [Les nombres Verts](#ii---les-nombres-verts)
 
 ### Définitions
 - **Bus**: Ensemble pragmatique* $\mathbb{B}$
-- **TGV**: Théorème Général de la Vacuité
+- **TGV**: Théorème Général des Gourdes Vides
 
 ## II - Les nombres Verts
 On définit un nombre vert (noté 七)  par :
@@ -73,7 +71,15 @@ On posera donc au début de tout raisonnement faisant intervenir $py$ l'hypothè
 
  $py = py$ ou $py = \pi$.
 
-### 3. Gourdes
+### 3. Carmin
+**Définition :**
+$七 = e^{\frac{x}{\alpha}} + y py$ un nombre vert.
+
+<div class="flip">$七 = e^{\frac{x}{\alpha}} + y py$</div>
+
+<div class="flip">七</div> $ = e^{\frac{x}{\alpha}} + y py$
+
+### 4. Gourdes
 **Définition :**
 七 est une gourde si et seulement si 七 est de la forme
 
@@ -89,3 +95,9 @@ Avec :
 $-i\bar{v}$
 - $\bar{v}$ le coefficient pratique de motricité de 七, qui qualifie le potentiel du nombre à se déplacer.
 
+
+
+
+
+
+## III - Troisième Dogmatique
