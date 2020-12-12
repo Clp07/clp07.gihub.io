@@ -13,6 +13,8 @@ II - [Les nombres Verts](#ii---les-nombres-verts)
 3. [Carmin](#3-carmin)
 4. [Gourdes](#4-gourdes)
 
+III - [Troisième Dogmatique](#iii---troisième-dogmatique)
+
 ---
 
 ## I - Savez vous compter jusqu'à Bus ?
@@ -73,6 +75,12 @@ On posera donc au début de tout raisonnement faisant intervenir $py$ l'hypothè
 
  $py = py$ ou $py = \pi$.
 
+
+**Définition : Application verdoyante**
+Soit $七$ un nombre vert et $\mathbb{W}$ un espace vectoriel.
+On définit $七°$ l'application verdoyante associée à $七$.
+On a donc $\forall \omega \in \mathbb{W}$, $七°(\omega) = e^{\frac{x}{\omega}}+ypy$
+
 ### 3. Carmin
 
 **Définition :**
@@ -120,4 +128,53 @@ $-i\bar{v}$
 
 ## III - Troisième Dogmatique
 
+Toutes les assertions de ce paragraphe seront valables si et seulement si on se place en dogmatique 3.
 
+**Énoncé :** 
+
+*«En 3<sup>ème</sup> dogmatique, tout nombre vert s'associe à une application. On défini alors $\mathbb{B}^三$ comme l'ensemble des applications de $\mathbb{B}$ dont le nombre vert à un sens.»*
+
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ une application, un nombre vert associé à $f$, noté $三(f)$ ou $三_f$ est
+
+$三(f) = e^{\frac{x}{f(x)}} + f(py)$
+
+
+*Remarques :* 
+- $三\_f°$ est l'application associée au nombre vert $三\_f$
+- *三 (du japonais trois) se prononce ici "tri".*
+- *$\mathbb{B}^三$ est un ensemble particulier de Bus appelé Tribus.*
+
+
+**Définition : Potentiel gravitationnel**
+En 3<sup>ème</sup> dogmatique, on définit le potentiel gravitationnel $\overrightarrow{grav}$ du nombre vert associé à $f$ tel que
+$\overrightarrow{grav}($三(f)$) = e^{\frac{x}{f}}$
+
+
+**Définition :**
+On définit l'énergie potentielle $\overrightarrow{E}\_p$ d'un nombre vert telle que
+
+$\overrightarrow{E}\_p(三\_f) = -\overrightarrow{grad}(\overrightarrow{grav}(三\_f))$
+
+**Définition :**
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ une application.
+On définit le nombre vert $f\_三$ d'application verdoyante $f$ tel que $f\_三° = f$
+
+
+**Définition :**
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ et $三(f)$ le nombre vert  associé à $f$.
+On définit une patte de $三(f)$ comme position d'équilibre stable de $三(f)$.
+
+
+**Propriété : Caractérisation d'une patte**
+Soit $ӽ \in \mathbb{B}$, et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$,
+
+$ӽ$ est une patte de $f$si et seulement si $\overrightarrow{E}\_p'(三\_f)(ӽ) = 0$ et $\overrightarrow{E}\_p''(三\_f)(ӽ) > 0$
+
+
+**Définition : Canard**
+Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ et $I$ un intervalle de $\mathbb{B}^三$.
+On dit que $f$ est un canard sur $I$  si et seulement si $f$ n'est pas continue sur $I$ et $f$ possède au moins trois pattes.
+
+**Propriété :**
+Soit $I$ un intervalle de $\mathbb{B}^三$ et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ un canard sur $I$.
+Le application verdoyante $三\_f°$ casse trois pattes à un canard si et seulement si $三\_f$ possède moins de trois positions d'équilibre.
