@@ -66,9 +66,12 @@ $七$ est exponentiellement proportionnelle à $\frac{1}{\alpha}$
 
 **Propriété : Spécialisation de $py$**
 
+
 $py$ n'est pas un nombre mais on peut lui associer le caractère d'un nombre noté $\pi$. $py$ vaut alors $\pi$ et on dit qu'il y a eut spécialisation, cependant la réciproque n'est pas vraie. Si on ne lui associe pas le caractère de nombre, alors on dit que $py$ est défini dans son caractère général. On défini donc dans le principe de Spécialisation le bon usage de $py$ lors d'un raisonnement.
 
 **Principe de Spécialisation :**
+
+
 *«Lors d'un raisonnement faisant intervenir $py$, on veillera à fixer le caractère de $py$ au début du raisonnement et à ne surtout pas le changer durant celui-ci.»*
 
 On posera donc au début de tout raisonnement faisant intervenir $py$ l'hypothèse suivante :
@@ -77,6 +80,8 @@ On posera donc au début de tout raisonnement faisant intervenir $py$ l'hypothè
 
 
 **Définition : Application verdoyante**
+
+
 Soit $七$ un nombre vert et $\mathbb{W}$ un espace vectoriel pour lequel la définition a un sens.
 On définit $七°$ l'application verdoyante associée à $七$.
 On a donc $\forall \omega \in \mathbb{W}$, $七°(\omega) = e^{\frac{x}{\omega}}+ypy$
@@ -84,13 +89,17 @@ On a donc $\forall \omega \in \mathbb{W}$, $七°(\omega) = e^{\frac{x}{\omega}}
 ### 3. Carmin
 
 **Définition :**
+
+
 Soit $\Delta$ une grandeur. On définit $\epsilon$ l'expo-grandeur associée à $\Delta$ telle 
 que $[\epsilon] = e^{[\Delta]^{-1}}$.
 
 Réciproquement, on dit que $\Delta$ est la loga-grandeur associée à $\epsilon$. On a donc $[\Delta] = ln^{-1}([\epsilon])$
 
 
-**Définition :**
+**Définition : Carmin**
+
+
 Soit $七^{\Delta}\_{\alpha}$ un nombre vert. On définit  pour tout $\omega$ quelconque 
 <div class="flip">七</div> &emsp; $^{\epsilon}\_{\omega}$ tel que 
 
@@ -111,11 +120,15 @@ On a donc
 
 ### 4. Gourdes
 **Définition :**
+
+
 七 est une gourde si et seulement si 七 est de la forme
 
 $e^{\frac{2py \times x}{\alpha}} + 2py \times \sin (z)$
 
 **Théorème des Gourdes Vides :**
+
+
 七 est une gourde si et seulement si 七 est de la forme
 
 $e^{\frac{2py \times x^{0}}{\alpha}} + 2py\sin (vi2)$
@@ -148,45 +161,63 @@ $三(f) = e^{\frac{x}{f(x)}} + f(py)$
 
 
 **Définition : Potentiel gravitationnel**
+
+
 En 3<sup>ème</sup> dogmatique, on définit le potentiel gravitationnel $\overrightarrow{grav}$ du nombre vert associé à $f$ tel que
 $\overrightarrow{grav}($三(f)$) = e^{\frac{x}{f}}$
 
 
 **Définition :**
+
+
 On définit l'énergie potentielle $\overrightarrow{E}\_p$ d'un nombre vert telle que
 
 $\overrightarrow{E}\_p(三\_f) = -\overrightarrow{grad}(\overrightarrow{grav}(三\_f))$
 
 **Définition :**
+
+
 Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ une application.
 On définit le nombre vert $f\_三$ d'application verdoyante $f$ tel que $f\_三° = f$
 
 
 **Définition :**
+
+
 Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ et $三(f)$ le nombre vert  associé à $f$.
 On définit une patte de $三(f)$ comme position d'équilibre stable de $三(f)$.
 
 
 **Propriété : Caractérisation d'une patte**
+
+
 Soit $ӽ \in \mathbb{B}$, et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$,
 
 $ӽ$ est une patte de $f$si et seulement si $\overrightarrow{E}\_p'(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p''(f\_三)(ӽ) > 0$
 
 
 **Définition : Canard**
+
+
 Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ et $I$ un intervalle de $\mathbb{B}^三$.
 On dit que $f$ est un canard sur $I$  si et seulement si $f$ n'est pas continue sur $I$ et $f$ possède au moins trois pattes.
 
 **Propriété :**
+
+
 Soit $I$ un intervalle de $\mathbb{B}^三$ et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$ un canard sur $I$.
 L' application verdoyante $三\_f°$ casse n pattes à un canard si et seulement si $三\_f$ possède n pattes de moins que $f$.
 
 
 **Définition :**
+
+
 Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$.
 $三\_f$ est une brouette si et seulement si $三\_f$ est une gourde vide dont le coefficient de motricité $\bar{v}$ est différent de 0.
 
 
 **Propriété :**
+
+
 Soit $I$ un intervalle de $\mathbb{B}^三$
 Une brouette tombe du ciel sur $I$ si et seulement si son énergie potentielle est décroissante sur $I$.
