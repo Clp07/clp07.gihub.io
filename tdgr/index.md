@@ -193,7 +193,7 @@ On définit une patte de $三(f)$ comme position d'équilibre stable de $三(f)$
 
 Soit $ӽ \in \mathbb{B}$, et $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$,
 
-$ӽ$ est une patte de $f$ si et seulement si $\overrightarrow{E}\_p'(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p''(f\_三)(ӽ) > 0$
+$ӽ$ est une patte de $f$ si et seulement si $\overrightarrow{E}\_p^{\prime}(f\_三)(ӽ) = 0$ et $\overrightarrow{E}\_p^{\prime\prime}(f\_三)(ӽ) > 0$
 
 
 **Définition : Canard**
@@ -213,6 +213,8 @@ L' application verdoyante $三\_f°$ casse n pattes à un canard si et seulement
 
 
 Soit $f : \mathbb{B}^三 \rightarrow \mathbb{B}^三$.
+
+
 $三\_f$ est une brouette si et seulement si $三\_f$ est une gourde vide dont le coefficient de motricité $\bar{v}$ est différent de 0.
 
 
