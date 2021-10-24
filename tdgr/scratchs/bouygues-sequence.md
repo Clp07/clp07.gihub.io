@@ -1,20 +1,19 @@
 # Étude de la suite de Bouygues
 On se propose ici d'étudier la suite de Bouygues dont les premiers termes sont les suivants :
 
-$C_0 =$  En chantier
+- $C_0 =$  En chantier
 
-$C_1 =$  Je ma pelle-teuse *( je m'appelle teuse )*
+- $C_1 =$  Je ma pelle-teuse *( je m'appelle teuse )*
 
+- $C_2 =$  Et moissonneuse *( et moi sonneuse )*
 
-$C_2 =$  Et moissonneuse *( et moi sonneuse )*
+- $C_3 =$  Et toiture *( et toi ture )*
 
-$C_3 =$  Et toiture *( et toi ture )*
+- $C_4 =$  Lui serpière [ ou serre-joint pour les intimes ] *( lui c'est rpière [respectivement rjoint] )*
 
-$C_4 =$  Lui serpière [ ou serre-joint pour les intimes ] *( lui c'est rpière [respectivement rjoint] )*
+- $C_5 =$  La balustrade *( là bas lustrade )*
 
-$C_5 =$  La balustrade *( là bas lustrade )*
-
-$C_6 =$  Et tractopelle *( et t'as ctopelle )*
+- $C_6 =$  Et tractopelle *( et t'as ctopelle )*
 
 ### Étude de la limite :
 La suite est définie comme étant une suite géométrico-arithmético-chantier. Elle suit la théorie des bus, sans oublier que nous ne connaissons pas encore sa limite. Il semblerait qu'elle converge vers $py\cdot \sin (e)$, ce qui permettrai alors de lui donner la définition mathématique suivante :
